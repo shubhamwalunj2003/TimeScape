@@ -1,0 +1,108 @@
+We had two web pages in Timescpae project. Home page and dashboard page.
+
+* Header (This is a static and fixed.)
+   * Timescape Logo
+   * User Profile Icon(which redirect to dashboard module)
+*********************************************************************
+*********************************************************************
+Home Page
+The Home Page serves as a gateway to various resources and includes sections that foster employee engagement and streamline HR tasks.
+
+Key Sections:
+
+Main Sections
+ 
+* Navigation Bar
+   * Punch In 
+   * Punch Online(button to daily punch-in/out) Link to time and attendance tracking system
+   * Punch Out
+* Content Section
+   * Corporate(having hortizontal swipe sliding post/storries window)
+         Link to corporate news, policies, and information
+   * Employee Engage(having hortizontal swipe sliding post/stories window)
+         Link to employee engagement activities, forums, and resources
+   * Inside each content section:
+     * Image
+     * Title
+     * Description
+     * Posted By
+     * Date
+     * Likes
+   * My Alerts
+     * List of pending approvals and notifications
+       * Example: 2 leaves for approval
+       * Example: Approve Invoice   , etc.
+   * Notice Board
+     * List of recent notices and announcements
+       * Example: Notice about a company event
+       * Example: Important policy update    , etc.
+
+* VCO Inspiration:
+      Features a motivational quote from the VCO (likely accompanied by a relevant image).
+
+* Quick Links:
+      Provides easy access to commonly used applications and resources:
+  * Punch Online: Time tracking system.
+  * Collaborate: Platform for team collaboration.
+  * MY-HR: HR portal for personal information, policies, and benefits.
+  * OCA: Certification administration tool.
+  * My Learning: Employee learning management platform.
+  * HR Policies: Repository of company HR policies.
+  * PF Account: Provident Fund details.
+  * Reimbursements: System for submitting and tracking reimbursement claims.
+  * Quest to Travel: Travel approval process.
+  * Wall of Fame: Recognition of employee achievements.
+  * Hospitalization: Information on health benefits.
+  * Capex Approval: Capital expenditure approvals.
+  * PAR Approval: Performance review approvals.
+  * Video Channel: Repository of company videos and announcements.
+
+* Leader Connect
+	Engages employees with messages and feedback tools:
+	Leader Messages: Inspirational or informative messages from leaders.
+
+* Polls and Surveys: Gather employee insights.
+
+* Humour: Light-hearted content.
+
+*********************************************************************
+*********************************************************************
+Dashboard Page
+The Dashboard is an interactive page that offers personalized, HR-related information and a summary of the employee's status.
+
+Key Elements:
+
+* Exception
+  Displays leave utilization with a progress bar for each type of leave:
+	Optional Leave: 1/2 days used.
+	Casual Leave: 5/7 days used.
+	Sick Leave: 8/12 days used.
+	Privilege Leave: 4/70 days used.
+
+* Reimbursements
+  Shows approved amounts and balances for reimbursements witha prgrss bar:
+	Conveyance: ₹25,000 approved, ₹75,000 balance.
+	Communication: ₹5,000 approved, ₹95,000 balance, status "Not Filed."
+
+* Pay Slip
+  Shows a downloadable option for the current month's pay slip.
+
+* LTA
+  Status displayed as "No Action Required."
+
+* OCA
+  Compliance status displayed as "Compliant."
+
+* Approval Status
+  Lists pending approvals for leave, invoices, and performance appraisals:
+	Leave approvals: 5 pending.
+	Invoice approvals: 3 pending.
+	PAR approvals: 1 pending.
+*********************************************************************
+*********************************************************************
+
+Bottom Navigation(This is a static and fixed.):
+Quicklinks
+Games
+Leader Connect
+Humour
